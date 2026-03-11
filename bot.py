@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ВАШ ТОКЕН БОТА (ЗАМЕНИТЕ НА СВОЙ!)
-TOKEN = "TELEGRAM_BOT_TOKEN"  # ← ВСТАВЬТЕ ТОКЕН СЮДА!
+TOKEN = "API_KEY"  # ← ВСТАВЬТЕ ТОКЕН СЮДА!
 
 # Варианты ответов
 RESPONSES = ["Да", "Нет"]
