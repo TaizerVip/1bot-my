@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ВАШ ТОКЕН БОТА (ЗАМЕНИТЕ НА СВОЙ!)
-TOKEN = "API_KEY"  # ← ВСТАВЬТЕ ТОКЕН СЮДА!
+TOKEN = "API_TOKEN"  # ← ВСТАВЬТЕ ТОКЕН СЮДА!
 
 # Варианты ответов
 RESPONSES = ["Да", "Нет"]
